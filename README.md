@@ -1,4 +1,4 @@
-### Hi there ! I am @Athempeed, A software developer, enthusiast and learner. I love to learn new technologies and share the knowledge with community. 👋
+### Hi there ! I am Deepak Singh AKA @Athempeed, A software developer, enthusiast and learner. I love to learn new technologies and share the knowledge with community. 👋
 <hr>
 
 ![photo-1461749280684-dccba630e2f6](https://user-images.githubusercontent.com/20739249/127428869-d5d6aeaa-17e6-4bd3-9b67-16c92abca44d.jpg)
