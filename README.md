@@ -7,26 +7,17 @@ Currently working with "Dell technologies" malaysia. Everyday I work in one of t
 ### Find me all around the web:
 
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/_deepsing/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a href="http://mishmanners.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/deepak-singh-mehta/" target="blank"><img align="center" src="https://github.com/athempeed/athempeed/blob/main/socials/linkedin.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/_deepsing/" target="blank"><img align="center" src="https://github.com/athempeed/athempeed/blob/main/socials/instagram.png" alt="" height="30" /></a>
+  <a href="https://stackoverflow.com/users/5098826/deepak-singh" target="blank"><img align="center" src="https://github.com/athempeed/athempeed/blob/main/socials/stackoverflow-logo.png" alt="" height="100" /></a>
 </p>
 
-•	Skilled developer with 8 years of experience and robust programming and analytical skills.
-•	Certified Scrum professional from scrum.org.
-•	Microsoft certified professional from Microsoft.
-•	Observant communicator with capacity to indulge and liaise with colleagues, executives and external stakeholders.
-•	Excellent Command in problem solving techniques, with high effective successful output.
-•	Deep Analytical, collaboration & interpersonal skills with capability of grasping new technical concepts in quick time.
-•	Driven and ambitious change manager dedicated to continuous business improvement focused on enhancing revenue and streamlining business operations.
+
+### Some Fun Facts about me:
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627528216872.png" height="200px" width="200px"/>
+I love to work with new technlogies. I am from a samll hill station in India called "ALmora". Which I feel is the coolest place on earth. I love Photography. 
 
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627528216872.png" height="200px" width="200px"/>
 
 <!--
 **athempeed/athempeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
